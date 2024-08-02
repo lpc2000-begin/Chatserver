@@ -3,6 +3,7 @@
 //维护好友信息的操作接口方法
 #include"user.hpp"
 #include<vector>
+#include"connectionPool.h"
 using namespace std;
 
 
@@ -14,6 +15,7 @@ class FriendModel
 
     //返回用户好友列表 friendid
     vector<User> query(int userid);
+
 };
 
 

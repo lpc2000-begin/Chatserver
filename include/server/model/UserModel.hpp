@@ -1,6 +1,6 @@
 #ifndef USERMODEL_H
 #define USERMODEL_H
-
+#include"connectionPool.h"
 #include "user.hpp"
 // User表的数据操作类
 class UserModel

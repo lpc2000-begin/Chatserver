@@ -1,6 +1,7 @@
 #ifndef GROUPMODEL_H
 #define GROUPMODEL_H
 #include"group.hpp"
+#include"connectionPool.h"
 #include<string>
 #include<vector>
 using namespace std;

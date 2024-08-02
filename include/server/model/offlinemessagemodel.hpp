@@ -3,6 +3,7 @@
 #include<string>
 #include<vector>
 using namespace std;
+#include"connectionPool.h"
 //提供离线消息表的操作接口方法
 class OfflineMsgModel
 {

@@ -6,10 +6,6 @@ static string user = "root";
 static string password = "123456";
 static string dbname = "chat";
 
-
-
-//j9E6Sc9lCTelSE4a
-
 // 初始化数据库连接
 MySQL::MySQL()
 {
